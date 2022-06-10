@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "my-tab-item": "./tabItem/index"
+  },
+  "componentGenerics": {
+    "genericsTest": true
+  }
+}
